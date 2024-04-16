@@ -1,2 +1,2 @@
 # ola mundo
- primeiro repositorio para testes
+Fazendo testes sobre a aula de git e github do site curso em video
